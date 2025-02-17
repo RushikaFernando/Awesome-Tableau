@@ -1,65 +1,68 @@
-Tableau Resources Repository
+# Awesome Tableau
 
-Welcome to the Tableau Resources Repository! This repository is a collection of valuable resources for Tableau users, including tutorials, guides, best practices, and external links to useful blogs and websites.
+## 📊 A Curated List of Tableau Resources
 
-📂 Repository Structure
+Welcome to **Awesome Tableau** – a repository dedicated to collecting, organizing, and sharing valuable Tableau resources, tutorials, dashboards, and more!
 
-/tableau-resources
-│── /dashboards        # Sample Tableau dashboards
-│── /data-sources      # Sample datasets
-│── /calculated-fields # Useful calculated field examples
-│── /extensions        # Tableau extensions and scripts
-│── /tutorials         # Step-by-step guides and how-tos
-│── LICENSE            # License information
-│── README.md          # Repository overview
+---
 
-📖 Resources Included
+## 🚀 Getting Started
 
-Data Sources: Sample datasets (.csv, .xlsx) for practice
+If you're looking to master Tableau or improve your data visualization skills, this repository is for you! Here, you'll find links to useful resources, templates, datasets, and projects.
 
-Calculated Fields: Prebuilt calculations for common use cases
+### 🔹 Featured Resource: [Makeover Monday](https://makeovermonday.co.uk/)
+Makeover Monday is a great initiative providing weekly datasets and visualization challenges to help you practice and refine your Tableau skills.
 
-Extensions & Scripts: Custom Tableau extensions and scripts
+---
 
-Tutorials & Guides: Step-by-step instructions for learning Tableau
+## 📂 Table of Contents
 
-External Blogs & Websites: Curated links to Tableau learning resources
+- [Getting Started](#-getting-started)
+- [Tableau Tutorials](#-tableau-tutorials)
+- [Dashboard Examples](#-dashboard-examples)
+- [Datasets for Practice](#-datasets-for-practice)
+- [Contributing](#-contributing)
+- [License](#-license)
 
-🚀 Getting Started
+---
 
-To use the resources in this repository:
+## 📚 Tableau Tutorials
 
-Clone the repository:
+- [Official Tableau Learning Resources](https://www.tableau.com/learn/training)
+- [Free Tableau Training on YouTube](https://www.youtube.com/results?search_query=tableau+tutorial)
+- [Data Visualization Best Practices](https://www.storytellingwithdata.com/)
 
-git clone https://github.com/your-username/tableau-resources.git
+---
 
-Browse the folders to find the resources you need.
+## 📊 Dashboard Examples
 
-Open Tableau and load the necessary files (.twbx, .csv, etc.).
+- [Tableau Public Gallery](https://public.tableau.com/en-us/s/gallery)
+- [Viz of the Day](https://public.tableau.com/app/discover/viz-of-the-day)
+- [Makeover Monday](https://makeovermonday.co.uk/)
 
-Follow tutorials to enhance your Tableau skills.
+---
 
-🤝 Contributing
+## 📂 Datasets for Practice
 
-Contributions are welcome! If you have useful Tableau resources to share:
+- [Makeover Monday Datasets](https://data.world/makeovermonday)
+- [Kaggle Datasets](https://www.kaggle.com/datasets)
+- [Data.gov Open Datasets](https://www.data.gov/)
 
-Fork the repository.
+---
 
-Add your content in the appropriate folder.
+## 🤝 Contributing
 
-Submit a pull request with a brief description.
+We welcome contributions! If you have a great Tableau resource to share, feel free to:
+1. Fork this repository
+2. Add your resource
+3. Submit a Pull Request
 
-📜 License
+---
 
-This repository is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0). You are free to share and adapt the materials with proper attribution.
+## 📜 License
 
-📢 Stay Connected
+This repository is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE). You are free to share and adapt the materials with proper attribution.
 
-💬 Tableau Community Forums
+---
 
-📖 Official Tableau Documentation
-
-📰 Tableau Public Gallery
-
-Happy Analyzing! 🚀
-
+Happy visualizing! 🎨📊
